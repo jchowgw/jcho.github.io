@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# CV PDF
-[You can viewmy CV in PDF by clicking this hyperlink](https://jchowgw.github.io/files/CV_Juhyung%20Cho.pdf)
+[Please click here for my CV](https://jchowgw.github.io/files/CV_Juhyung%20Cho.pdf)
 
 Education
 ======
